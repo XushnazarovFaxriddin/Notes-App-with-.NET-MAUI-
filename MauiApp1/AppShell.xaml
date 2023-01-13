@@ -13,10 +13,10 @@
             ContentTemplate="{DataTemplate views:AllNotesPage}"
             Icon="icon_notes" />
 
-        <ShellContent
+        <!--<ShellContent
             Title="Add"
             ContentTemplate="{DataTemplate local:NotePage}"
-            Icon="icon_add" />
+            Icon="icon_add" />-->
 
         <ShellContent
             Title="About"
